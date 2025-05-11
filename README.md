@@ -1,7 +1,10 @@
+## Step action
+1. Run: npm install
+2. Start: npm start
+
+
 ## Question
-
 Your task is to modify the current project to solve these problems:
-
 1. The program does not encrypt the password when storing it into database. Please try to use 'bcrypt' library to store the password in encrypted form.
 2. When the user is logged in, "/" shows "Welcome. Your name is :[object Object]". Please change the code so that it shows proper name. Also, please add some words to show the number of users that has signed up so far.
 3. There are somewhere that do not follow HTTP standard. Please fix.
